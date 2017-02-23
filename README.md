@@ -4,6 +4,14 @@ The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://
 
 ###[View Live Demo &rarr;](http://ironsummitmedia.github.io/startbootstrap-clean-blog-jekyll/)
 
+## Link Utili
+
+- http://jekyll.tips/templates/
+- https://mademistakes.com/work/jekyll-themes/
+- https://github.com/jekyll/jekyll/wiki/Themes
+- http://pezzato.net/2013/04/sito-jekyll-git.html
+
+
 ## Before You Begin
 
 In the _config.yml file, the base URL is set to /startbootstrap-clean-blog-jekyll which is this themes gh-pages preview. It's recommended that you remove the base URL before working with this theme locally!
